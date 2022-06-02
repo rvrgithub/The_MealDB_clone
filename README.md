@@ -1,5 +1,6 @@
 # The_MealDB_clone
 
+
 <h2>About</h2>
 
 <h4>This is a food API app. in which you can see different food items and their description and integration.</h4>
@@ -14,11 +15,12 @@ CSS
 The MealDB Api
  ```
 
-✨Magic ✨
-
-```sh
+<h4>✨Magic ✨<h4>
+ 
 https://the-meal-db-clone.vercel.app/
-```
+<hr>
+ 
+<h2>Reference Images</h2>
 
 ![27fa8239-1c64-4004-bf86-d21b1dec1768](https://user-images.githubusercontent.com/96066976/171484098-6158d67e-de07-4299-bac8-22e7c8b6f3c1.jpg)
 ![0a1cba66-d5f4-4e59-87bf-a45ecb779f7e](https://user-images.githubusercontent.com/96066976/171484118-700638f8-97c2-4402-932b-8655e8503730.jpg)
